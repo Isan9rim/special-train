@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\С#\task12\bin\Debug\net6.0\task12.exe
+C:\Users\Админ\Desktop\С#\task12\bin\Debug\net6.0\task12.deps.json
+C:\Users\Админ\Desktop\С#\task12\bin\Debug\net6.0\task12.runtimeconfig.json
+C:\Users\Админ\Desktop\С#\task12\bin\Debug\net6.0\task12.dll
+C:\Users\Админ\Desktop\С#\task12\bin\Debug\net6.0\task12.pdb
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.AssemblyInfo.cs
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.dll
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\refint\task12.dll
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.pdb
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\task12.genruntimeconfig.cache
+C:\Users\Админ\Desktop\С#\task12\obj\Debug\net6.0\ref\task12.dll
