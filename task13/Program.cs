@@ -4,7 +4,7 @@
 32679 -> 6
 */
 
-CConsole.WriteLine("Введите число: ");
+Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int result = 0;
 
