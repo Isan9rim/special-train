@@ -17,9 +17,9 @@ int kvadrat1 = number1 * number1;
 int kvadrat2 = number2 * number2;
 if (number2 % kvadrat1 == 0 || number1 % kvadrat2 == 0)
 {
-   System.Console.WriteLine("Условие задачи выполняется! "); 
+   System.Console.WriteLine("Условие задачи выполняется "); 
 }
 else
 {
-    System.Console.WriteLine("Условие задачи невыполняется! ");
+    System.Console.WriteLine("Условие задачи невыполняется ");
 }

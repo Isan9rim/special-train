@@ -8,9 +8,9 @@ x=-34; y=-30 -> 3
 Console.Clear();
 
 System.Console.Write("задай координту точки X: ");
-int userX = int.Parse(Console.ReadLine());
+int userX = int Parse(Console.ReadLine());
 System.Console.Write("задай координту точки Y: ");
-int userY = int.Parse(Console.ReadLine());
+int userY = int Parse(Console.ReadLine());
 
 if (userX > 0 && userY > 0)
 {
