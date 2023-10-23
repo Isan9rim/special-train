@@ -43,7 +43,7 @@ int[] MultArray(int[] array)
     return result;
 }
 
-int[] array = CreateArray(7, 1, 5);
+int[] array = CreateArray(8, 1, 5);
 Output(array);
 System.Console.WriteLine();
 int[] array2 = MultArray(array);
