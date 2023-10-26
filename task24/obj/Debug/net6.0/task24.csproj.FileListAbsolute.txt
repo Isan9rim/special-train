@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\С#\task24\bin\Debug\net6.0\task24.exe
+C:\Users\Админ\Desktop\С#\task24\bin\Debug\net6.0\task24.deps.json
+C:\Users\Админ\Desktop\С#\task24\bin\Debug\net6.0\task24.runtimeconfig.json
+C:\Users\Админ\Desktop\С#\task24\bin\Debug\net6.0\task24.dll
+C:\Users\Админ\Desktop\С#\task24\bin\Debug\net6.0\task24.pdb
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.AssemblyInfo.cs
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.dll
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\refint\task24.dll
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.pdb
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\task24.genruntimeconfig.cache
+C:\Users\Админ\Desktop\С#\task24\obj\Debug\net6.0\ref\task24.dll

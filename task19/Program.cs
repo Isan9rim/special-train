@@ -15,16 +15,16 @@ int n1 = n / 10000;
 //System.Console.WriteLine(n1);
 int n2 = n / 1000 % 10;
 //System.Console.WriteLine(n2);
-int n4 = n / 10 % 10; 
+int n4 = n / 10 % 10;
 //System.Console.WriteLine(n4);
-int n5 = n  % 10;
+int n5 = n % 10;
 //System.Console.WriteLine(n5);
 
-if (n < 1000 || n > 99999)
+if (n < 10000 || n > 99999)
     System.Console.WriteLine("Число не пятизначное");
 else
     System.Console.WriteLine("Число пятизначное");
 if (n1 == n5 & n2 == n4)
-System.Console.WriteLine($"Число {n} является палиндромом");
-else    
-   System.Console.WriteLine($"Число {n} неявляется палиндромом");
+    System.Console.Write($"Число {n} является палиндромом");
+else
+    System.Console.Write($"Число {n} неявляется палиндромом");

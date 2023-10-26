@@ -4,20 +4,21 @@
 8 -> 36
 */
 
-int value = 8;
+int value = 5;
 
 int sum = SumOfNumberDigits(value);
 
-System.Console.WriteLine(sum);
+//System.Console.WriteLine($"{value} -> {sum}");
 
 
 int SumOfNumberDigits(int num)
 {
     int result = 0;
     for(int i = 1; i <= num;i++)
-     {
+    {
         result = result + i;
-     }
+    }
         
     return result;
 }
+System.Console.WriteLine($"{value} -> {sum}");
