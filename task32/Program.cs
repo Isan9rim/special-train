@@ -17,24 +17,24 @@ int[] GetRnd(int size)
 
 void PrintArray(int[] arr)
 {
-    Console.ForegroundColor = ConsoleColor.Green;
+    //Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
-        Console.ForegroundColor = ConsoleColor.Cyan;
-        Thread.Sleep(200);
+        //Console.ForegroundColor = ConsoleColor.Cyan;
+        //Thread.Sleep(200);
         System.Console.Write(arr[i]);
         if (i < arr.Length - 1)
-            System.Console.Write(", ");
+        System.Console.Write(", ");
     }
-    Console.ForegroundColor = ConsoleColor.Green;
+    //Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("]");
-    Console.ResetColor();
+    //Console.ResetColor();
 }
 
 void RevArray(int[] array)
 {
-    Console.ForegroundColor = ConsoleColor.Green;
+    //Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("[");
     for (int i = 0; i < array.Length; i++)
     {
@@ -42,9 +42,9 @@ void RevArray(int[] array)
         if (i < array.Length - 1)
             System.Console.Write(", ");
     }
-    Console.ForegroundColor = ConsoleColor.Green;
+    //Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("]");
-    Console.ResetColor();
+    //Console.ResetColor();
 }
 
 int[] ArrayRnd = GetRnd(6);

@@ -2,7 +2,7 @@
 присутствует ли заданное число в массиве.
 4; массив [6, 7, 19, 345, 3] -> нет
 -3; массив [6, 7, 19, 345, 3] -> да
-
+*/
 
 
 int[] GetRnd(int size)
@@ -41,7 +41,7 @@ bool Numb(int[] arr, int srav)
     }
     return false;
 }
-*/
+
 int[] CreateArray(int size, int min, int max)
 {
     var random = new Random();
@@ -63,16 +63,16 @@ void Output(int[] arr)
     }
 }
 
-// void IsBelong(int[] arr, int number)
-// {
-//     for (int i = 0; i < arr.Length; i++)
-//     {
-//         if (arr[i] == number)
-//         System.Console.WriteLine($"Число {number} есть в массиве");
-//         // else if(arr[i]!= number)
-//         // System.Console.WriteLine($"Числа {number} нет в массиве");
-//     }
-// }
+ void IsBelong(int[] arr, int number)
+ {
+     for (int i = 0; i < arr.Length; i++)
+     {
+        if (arr[i] == number)
+        System.Console.WriteLine($"Число {number} есть в массиве");
+        else if(arr[i]!= number)
+        System.Console.WriteLine($"Числа {number} нет в массиве");
+     }
+ }
 
 bool IsBelong(int[] arr, int number)
 {
@@ -91,8 +91,9 @@ Output(arr);
 System.Console.WriteLine("Введите число: ");
 
 int n = int.Parse(Console.ReadLine());
-// IsBelong(arr, n);
+IsBelong(arr, n);
 
-// System.Console.WriteLine(IsBelong(arr, n));
+System.Console.WriteLine(IsBelong(arr, n));
 bool result2 = IsBelong(arr,n);
 System.Console.WriteLine((result2)?$"Число {n} в массиве есть":"Числа {n} в массиве нет");
+

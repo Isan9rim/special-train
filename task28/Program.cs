@@ -3,11 +3,7 @@
 5 -> 120
 */
 
-System.Console.Write("Введите число: ");
 
-int userNum = int.Parse(System.Console.ReadLine());
-
-System.Console.WriteLine("Факториал этого числа: " + Factorial(userNum));
 
 int Factorial(int num)
 {
@@ -18,4 +14,16 @@ int Factorial(int num)
     }
     
     num = result;
+    return result;
 }
+
+//System.Console.Write("Введите число: ");
+
+//int userNum = int.Parse(System.Console.ReadLine());
+
+//System.Console.WriteLine("Факториал этого числа: " + Factorial(userNum));
+
+System.Console.Write("Введите число: ");
+int usernum = int.Parse(System.Console.ReadLine());
+int number = Factorial(usernum);
+System.Console.WriteLine(number);

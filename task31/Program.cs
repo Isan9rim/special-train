@@ -23,7 +23,7 @@ void PrintArray(int[] arr)
     for (int i = 0; i < arr.Length; i++)
     {
         Console.ForegroundColor = ConsoleColor.Green;
-        Thread.Sleep(200);
+        Thread.Sleep(100);
         System.Console.Write(arr[i]);
         if (i < arr.Length - 1)
             System.Console.Write(", ");
